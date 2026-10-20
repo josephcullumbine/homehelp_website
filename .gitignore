@@ -1,0 +1,12 @@
+# Installed agent skill (reinstall with: npx skills add, see skills-lock.json)
+.agents/
+.claude/skills/
+.claude/settings.local.json
+
+# Screenshots shared while reviewing
+problem.png
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
